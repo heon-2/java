@@ -1,0 +1,13 @@
+package inflearn_java;
+
+public class CommentJava {
+    public static void main(String[] args) {
+        System.out.println("hello java1"); // hello java1을 출력합니다.
+//        System.out.println("hello java2");
+        /* 범위 내의 주석달기.
+        System.out.println("hello java2");
+        System.out.println("hello java2");
+        */
+
+    }
+}
